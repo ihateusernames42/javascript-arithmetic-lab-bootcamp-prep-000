@@ -10,4 +10,11 @@ function multiply (a,b){
 function divide (a,b){
   return a/b
 }
-function 
+function inc(n){
+  n+=1
+  return n
+}
+function dec(n) {
+  n -= 1 
+  return n
+}
